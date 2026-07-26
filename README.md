@@ -4,7 +4,7 @@ A modern and responsive business website created using **HTML, CSS, and JavaScri
 
 
  # Live Demo
- Github:github.com/reethikasrilatha-lab/northpeak-digital
+ Github:github.com/reethikasrilatha-lab/Northpeak-digital
 
 ## 🚀 Features
 
