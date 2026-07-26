@@ -51,4 +51,4 @@ Through this project, I learned:
 
 ## 👩‍💻 Author
 
-**Reethika*
+https://github.com/reethikasrilatha-lab/Northpeak-digital
