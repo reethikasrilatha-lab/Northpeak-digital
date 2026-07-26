@@ -1,8 +1,10 @@
 # 🌐 NorthPeak Digital
 
 A modern and responsive business website created using **HTML, CSS, and JavaScript**. This project was built as a frontend development practice project and showcases a professional company website with multiple sections.
+
+
 Live Demo
-github.com/reethikasrilatha-lab/northpeak-digital
+ Github:github.com/reethikasrilatha-lab/northpeak-digital
 
 ## 🚀 Features
 
